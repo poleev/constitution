@@ -12,6 +12,12 @@ https://github.com/poleev/constitution/wiki/Interlinear
 
 https://github.com/poleev/constitution/wiki/Constitution-of-the-community-Rus’.
 
+German translation
+
+http://constitution.fund/download/Konstitution.pdf 
+
+http://constitution.fund/download/Konstitution2.pdf 
+
 original Russian text
 
 http://constitution.fund/download/constitution.txt
