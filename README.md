@@ -10,8 +10,6 @@ http://constitution.fund/download/english.txt
 
 https://github.com/poleev/constitution/wiki/Interlinear
 
-https://github.com/poleev/constitution/wiki/Constitution-of-the-community-Rus’.
-
 German translation
 
 http://constitution.fund/download/Konstitution.pdf 
@@ -25,5 +23,3 @@ http://constitution.fund/download/constitution.txt
 http://constitution.fund/pages/constitution.htm
 
 http://constitution.fund/download/constitution.pdf
-
-https://github.com/poleev/constitution/wiki/Конституция-общности-Русь.
